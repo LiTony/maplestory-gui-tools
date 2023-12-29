@@ -1,0 +1,84 @@
+('C:\\Users\\Tony '
+ 'Li\\Desktop\\programming-folder\\python_stuff\\dec-2023\\maplestory-gui-tools\\egp\\build\\cli\\cli.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Tony '
+   'Li\\Desktop\\programming-folder\\python_stuff\\dec-2023\\maplestory-gui-tools\\egp\\build\\cli\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Tony '
+   'Li\\Desktop\\programming-folder\\python_stuff\\dec-2023\\maplestory-gui-tools\\egp\\build\\cli\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Tony '
+   'Li\\Desktop\\programming-folder\\python_stuff\\dec-2023\\maplestory-gui-tools\\egp\\build\\cli\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Tony '
+   'Li\\Desktop\\programming-folder\\python_stuff\\dec-2023\\maplestory-gui-tools\\egp\\build\\cli\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Tony '
+   'Li\\Desktop\\programming-folder\\python_stuff\\dec-2023\\maplestory-gui-tools\\egp\\build\\cli\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Tony '
+   'Li\\Desktop\\programming-folder\\python_stuff\\dec-2023\\maplestory-gui-tools\\egp\\build\\cli\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Tony '
+   'Li\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Tony '
+   'Li\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt6',
+   'C:\\Users\\Tony '
+   'Li\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt6.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Tony '
+   'Li\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Tony '
+   'Li\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Users\\Tony '
+   'Li\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Users\\Tony '
+   'Li\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'C:\\Users\\Tony '
+   'Li\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Tony '
+   'Li\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('cli',
+   'C:\\Users\\Tony '
+   'Li\\Desktop\\programming-folder\\python_stuff\\dec-2023\\maplestory-gui-tools\\egp\\cli.py',
+   'PYSOURCE')],
+ 'python310.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
