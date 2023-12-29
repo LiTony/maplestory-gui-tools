@@ -12,4 +12,4 @@ Extreme Growth Potion Simulator (egp.py)
 > executable found at egp/dist/cli/cli.exe
 
 Below is an image of the program.  
-![Picture of EGP Tool](https://github.com/LiTony/maplestory-gui-tools/blob/main/egp_example.png?raw=true)
+![Picture of EGP Tool](https://github.com/LiTony/maplestory-gui-tools/blob/main/egp/egp_example.png?raw=true)
