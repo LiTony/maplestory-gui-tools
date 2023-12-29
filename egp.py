@@ -39,6 +39,8 @@ def repeatEGP(startLevel, numEGP):
     level = startLevel
     for i in range(numEGP):
         level = oneEGP(level)
+        if(level >= 200):
+            return level
     debugPrint("Level Finish: %d", level)
     return level
 
